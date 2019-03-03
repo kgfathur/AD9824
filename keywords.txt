@@ -1,0 +1,65 @@
+##########################################
+# Datatypes (KEYWORD1)
+##########################################
+
+AD9824	KEYWORD1
+
+##########################################
+# Instances (KEYWORD2)
+##########################################
+
+##########################################
+# Methods and Functions (KEYWORD2)
+##########################################
+
+ping		KEYWORD2
+getGain		KEYWORD2
+setGain		KEYWORD2
+setClamp	KEYWORD2
+setReg		KEYWORD2
+reset		KEYWORD2
+
+##########################################
+# Constants (LITERAL1)
+##########################################
+
+DEFAULT_CONFIG	LITERAL1
+DEFAULT_DATA	LITERAL1
+NUM_BYTES		LITERAL1
+REGISTER_MASK	LITERAL1
+OPER_MODE		LITERAL1
+VGA_GAIN		LITERAL1
+CLAMP_LEVEL		LITERAL1
+CONTROL			LITERAL1
+PXGA_GAIN0		LITERAL1
+PXGA_GAIN1		LITERAL1
+PXGA_GAIN2		LITERAL1
+PXGA_GAIN3		LITERAL1
+CHSEL_MASK		LITERAL1
+CCD_MODE		LITERAL1
+AUX1_MODE		LITERAL1
+AUX2_MODE		LITERAL1
+TEST_ONLY		LITERAL1
+POWERMODE_MASK	LITERAL1
+NORMAL			LITERAL1
+TEST			LITERAL1
+STANDBY			LITERAL1
+TOTAL			LITERAL1
+COLORSTEER_MASK	LITERAL1
+STEER_DISABLE	LITERAL1
+MOSAIC_SEPARATE	LITERAL1
+INTERLACE		LITERAL1
+COLOR3			LITERAL1
+OLOR4			LITERAL1
+VD_SELECT		LITERAL1
+MOSAIC_REPEAT	LITERAL1
+USER			LITERAL1
+
+#######################################
+# Built-In Variables (LITERAL2)
+#######################################
+
+register_t		LITERAL2
+chsel_t			LITERAL2
+powermode_t		LITERAL2
+colorsteer_t	LITERAL2
